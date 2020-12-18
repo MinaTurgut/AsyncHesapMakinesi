@@ -1,0 +1,13 @@
+C:\Users\minat\source\repos\AsyncHesapMakinesi\AsyncHesapMakinesi\obj\Debug\netcoreapp3.1\AsyncHesapMakinesi.csprojAssemblyReference.cache
+C:\Users\minat\source\repos\AsyncHesapMakinesi\AsyncHesapMakinesi\obj\Debug\netcoreapp3.1\AsyncHesapMakinesi.AssemblyInfoInputs.cache
+C:\Users\minat\source\repos\AsyncHesapMakinesi\AsyncHesapMakinesi\obj\Debug\netcoreapp3.1\AsyncHesapMakinesi.AssemblyInfo.cs
+C:\Users\minat\source\repos\AsyncHesapMakinesi\AsyncHesapMakinesi\obj\Debug\netcoreapp3.1\AsyncHesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\minat\source\repos\AsyncHesapMakinesi\AsyncHesapMakinesi\bin\Debug\netcoreapp3.1\AsyncHesapMakinesi.exe
+C:\Users\minat\source\repos\AsyncHesapMakinesi\AsyncHesapMakinesi\bin\Debug\netcoreapp3.1\AsyncHesapMakinesi.deps.json
+C:\Users\minat\source\repos\AsyncHesapMakinesi\AsyncHesapMakinesi\bin\Debug\netcoreapp3.1\AsyncHesapMakinesi.runtimeconfig.json
+C:\Users\minat\source\repos\AsyncHesapMakinesi\AsyncHesapMakinesi\bin\Debug\netcoreapp3.1\AsyncHesapMakinesi.runtimeconfig.dev.json
+C:\Users\minat\source\repos\AsyncHesapMakinesi\AsyncHesapMakinesi\bin\Debug\netcoreapp3.1\AsyncHesapMakinesi.dll
+C:\Users\minat\source\repos\AsyncHesapMakinesi\AsyncHesapMakinesi\bin\Debug\netcoreapp3.1\AsyncHesapMakinesi.pdb
+C:\Users\minat\source\repos\AsyncHesapMakinesi\AsyncHesapMakinesi\obj\Debug\netcoreapp3.1\AsyncHesapMakinesi.dll
+C:\Users\minat\source\repos\AsyncHesapMakinesi\AsyncHesapMakinesi\obj\Debug\netcoreapp3.1\AsyncHesapMakinesi.pdb
+C:\Users\minat\source\repos\AsyncHesapMakinesi\AsyncHesapMakinesi\obj\Debug\netcoreapp3.1\AsyncHesapMakinesi.genruntimeconfig.cache
